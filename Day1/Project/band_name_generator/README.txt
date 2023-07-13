@@ -4,4 +4,4 @@
 #APPLICATION VERSION & DATE: Application Version 1.0, 07/13/2023
 #IDE: Replit
 #Python Version: Python 3.8.12
-#DIRECTIONS: Use the following link to access the running program (https://replit.com/@appbrewery/band-name-generator-end).
+#DIRECTIONS: Use the following link to access an example of the running program (https://replit.com/@appbrewery/band-name-generator-end).

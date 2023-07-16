@@ -1,4 +1,4 @@
-# Day 1 Log: Working with Variables in Python
+# Day 1 Log: Working with Variables in Python to Manage Data
 
 Welcome to my Day 1 log of the "100 Days of Code: The Complete Python Pro Bootcamp for 2023"! Today, I delved into the fundamentals of working with variables in Python, gaining valuable insights into managing data efficiently. Here's a summary of what I covered:
 

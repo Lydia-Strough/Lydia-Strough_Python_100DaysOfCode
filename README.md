@@ -7,7 +7,20 @@ Welcome to my 100 Days of Code Bootcamp log! This repository serves as a documen
 The repository is organized into folders for each day of the bootcamp. Each day's folder contains a README file summarizing the concepts, topics, and exercises covered on that particular day. Additionally, if I have completed any projects during the day, you'll find a "Project" folder within the day's folder, containing a separate README file and any necessary project files.
 
 For example:
-- **Day N**: DayN/README.txt/Project/project_name/README.txt/...
+
+<pre>
+<code>
+DayN/
+├── README.md
+├── Project/
+│   ├── project_name/
+│   │   ├── README.md
+│   │   ├── necessary_files...
+│   │   └── ...
+│   └── ...
+└── ...
+</code>
+</pre>
 
 ## Progress and Updates
 

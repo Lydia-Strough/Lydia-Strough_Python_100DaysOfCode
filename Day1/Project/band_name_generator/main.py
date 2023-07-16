@@ -1,6 +1,7 @@
 #TITLE: Band Name Generator (100 Days of Code, Day 1 Project)
 #AUTHOR: Lydia Strough
-#APPLICATION VERSION & DATE: Application Version 1.0, 07/13/2023
+#APPLICATION VERSION: 1.0
+#DATE: 07/13/2023
 
 #1. Create a greeting for your program.
 print("Welcome to the Band Name Generator.")

@@ -4,10 +4,10 @@ Welcome back to my Day 2 log of the "100 Days of Code: The Complete Python Pro B
 
 ## Key Topics Covered
 
-- **Primitive Data Types:** I learned about essential data types in Python, including strings, integers, floats, and booleans. Understanding these foundational data types is crucial for building more complex programs.
+- **Primitive Data Types:** I learned about essential data types in Python, including strings, integers, floats, and booleans. 
 - **Type Error, Type Checking, Type Conversion:** I gained insights into handling type errors, checking data types using the `type()` function, and converting data between different types.
-- **Mathematical Operations:** This section focused on arithmetic operations in Python, such as addition, subtraction, multiplication, division, and exponents. These operations are essential for performing calculations within programs.
-- **Number Manipulation and F-strings:** This section covered techniques for manipulating numbers, such as rounding and formatting output using f-strings. F-strings are a powerful way to format strings and include variables seamlessly.
+- **Mathematical Operations:** This section focused on arithmetic operations in Python, such as addition, subtraction, multiplication, division, and exponents. 
+- **Number Manipulation and F-strings:** This section covered techniques for manipulating numbers, such as rounding and formatting output using f-strings.
 
 ## Coding Exercises
 

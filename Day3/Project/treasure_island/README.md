@@ -19,7 +19,7 @@ Welcome to the Treasure Island Game! This project is part of my progress through
 
 ## Running the Program
 
-To see an example of the running program, please use the following link: [Treasure Island]([link-here](https://replit.com/@appbrewery/treasure-island-end)).
+To see an example of the running program, please use the following link: [Treasure Island](https://replit.com/@appbrewery/treasure-island-end).
 
 ## Directions
 

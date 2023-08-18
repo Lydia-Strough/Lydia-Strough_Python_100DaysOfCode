@@ -36,5 +36,3 @@ Embark on this daring quest for treasure, but remember, each choice has conseque
 I hope you enjoy the adventure of exploring Treasure Island! If you have any questions, feedback, or simply want to connect, feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/lydia-strough/).
 
 Stay tuned for more exciting projects as I progress through the "100 Days of Code" bootcamp. Happy coding! 🚀
-
-#100DaysOfCode #PythonBootcamp #TreasureIslandGame #InteractiveAdventure

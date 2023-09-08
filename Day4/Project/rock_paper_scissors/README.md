@@ -20,11 +20,16 @@ Welcome to the Rock, Paper, Scissors Game! This project is part of my progress t
 
 ## Running the Program
 
-To see an example of the running program, please use the following link: [Rock Paper Scissors](https://replit.com/@appbrewery/rock-paper-scissors-end).
+You can run the game by following these steps:
+
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Run the game!
+4. Alternatively, you can see an example of the running program [here](https://replit.com/@appbrewery/rock-paper-scissors-end).
 
 ## Directions
 
-1. Launch the game using the provided link.
+1. Launch the game using the provided link or by running the program locally as mentioned above.
 2. When prompted, enter your choice by typing 0 for Rock, 1 for Paper, or 2 for Scissors.
 3. The computer will randomly choose its move.
 4. The game will determine the winner and display the result.

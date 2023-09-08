@@ -25,7 +25,8 @@ You can run the game by following these steps:
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
 3. Run the game!
-4. Alternatively, you can see an example of the running program [here](https://replit.com/@appbrewery/rock-paper-scissors-end).
+
+Alternatively, you can see an example of the running program [here](https://replit.com/@appbrewery/rock-paper-scissors-end).
 
 ## Directions
 
